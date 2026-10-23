@@ -1,0 +1,8 @@
+.DS_Store
+dist/
+backup/
+backups/
+*.db
+*.db-wal
+*.db-shm
+rea-evidence*.json
